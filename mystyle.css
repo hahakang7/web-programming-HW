@@ -254,6 +254,12 @@ div.park-main {
   padding-left: 420px;
   padding-top: 20px;
 }
+div.on {
+  font-family: "Nanum Myeongjo", serif;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+}
 footer > a {
   border: none;
   background-color: white;
